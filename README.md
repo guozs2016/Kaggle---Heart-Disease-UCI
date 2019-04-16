@@ -2,6 +2,8 @@
 This is a Heart Disease Prediction Neural Network based on dataset on kaggle. (https://www.kaggle.com/ronitf/heart-disease-uci)
 I apply a neural network with basic pre-processing of dataset to reach a 88.52% accuracy.
 
+Size of Dataset: (303,14)
+
 - /data/heart.csv 
     data used to train and test the neural network
 - Accuracy.png 
